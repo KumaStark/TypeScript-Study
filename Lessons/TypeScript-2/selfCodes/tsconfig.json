@@ -1,0 +1,9 @@
+{
+    "compilerOptions":{
+        "target": "ES3",
+        "module": "CommonJS",
+        "esModuleInterop":true,
+        "allowSyntheticDefaultImports": true,
+    },
+    "include": ["./src/**/*.tx"]
+}

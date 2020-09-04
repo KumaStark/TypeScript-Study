@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",         // 输出目录
+        "target": "es5",            // 目标JS版本
+        // "target": "es6",
+        // "watch": true,           // 监控文编变更
+        "strictNullChecks": true,   // 严格的null/undefined检测
+        "noImplicitAny": true       // 检测隐式any属性的情况
+    },
+    "include": ["./src/**/*"]
+}

@@ -2,7 +2,7 @@
     "compilerOptions": {
         "outDir": "./dist",
         "target": "es6",
-        "watch": true
+        // "watch": true
     },
     "include": ["./src/**/*.ts"]
 }
